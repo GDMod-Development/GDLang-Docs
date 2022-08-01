@@ -11,6 +11,6 @@ So you can't do this
 
 ```
 
-type name; (don't do this, don't work)
+type name; (doing this wont work)
 
 ```
